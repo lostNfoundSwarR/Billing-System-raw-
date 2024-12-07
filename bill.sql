@@ -1,5 +1,4 @@
---Add this code to a SQL management IDE like SQL workbench or recreate this table
---in MS-Access
+--Add this code to a SQL management IDE like SQL workbench or recreate this table in MS Access
 
 CREATE DATABASE billDataBase;
 USE billDataBase;
