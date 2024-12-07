@@ -1,4 +1,4 @@
-This project uses `sql.connector`.
+This project uses `mysql.connector`.
 
 # 1 How to add sql.connector
 
