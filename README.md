@@ -1,3 +1,10 @@
+This project uses `sql.connector`.
+
+# How to add sql.connector
+
+Type the following `pip` command in your terminal:
+	: pip install mysql-connector-python
+
 # BillDataBase:
 
 This database can generally be used for tracking information and saving data regarding bills,
