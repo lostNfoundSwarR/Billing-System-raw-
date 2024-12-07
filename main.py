@@ -13,9 +13,9 @@ class Item:
 # Database configuration
 db_config = {
      "host": "localhost",
-     "user": "root", #Type username, default = root
-     "password": "tender_feeling", #Type your connection password, if none, then leave empty
-     "database": "billDataBase", #Type database name
+     "user": "", #Type username, default = root
+     "password": "", #Type your connection password, if none, then leave empty
+     "database": "", #Type database name
      "port": 3306
 }
 
