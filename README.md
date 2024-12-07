@@ -4,7 +4,8 @@ This project uses `sql.connector`.
 
 Type the following `pip` command in your terminal:
 	```bash
- 	pip install mysql-connector-python```
+ 	pip install mysql-connector-python
+  	```
 
 # 2 Check if it's installed or not
 
