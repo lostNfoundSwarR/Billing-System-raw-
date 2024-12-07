@@ -3,7 +3,7 @@ This project uses `sql.connector`.
 # How to add sql.connector
 
 Type the following `pip` command in your terminal:
-	: pip install mysql-connector-python
+	```pip install mysql-connector-python```
 
 # BillDataBase:
 
